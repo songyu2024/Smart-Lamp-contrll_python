@@ -259,8 +259,9 @@ DEBUG_MODE = True
 ### 📞 支持与反馈
 
 如有问题或建议，请通过以下方式联系：
-- 提交 GitHub Issue
-- [添加你的联系方式]
+- 📧 邮箱：[songyu00yo@gmail.com](mailto:songyu00yo@gmail.com)
+- 🐛 问题反馈：提交 GitHub Issue
+- 💡 功能建议：欢迎在 Issues 中讨论
 
 ---
 
@@ -368,6 +369,13 @@ python voice_control.py
    - "关灯" (Turn off) / "关闭" (Close)
    - "亮度50" (Brightness 50) / "设置亮度30" (Set brightness 30)
 
+### 📞 Support & Contact
+
+For questions or suggestions, please contact us via:
+- 📧 Email: [songyu00yo@gmail.com](mailto:songyu00yo@gmail.com)
+- 🐛 Bug Reports: Submit GitHub Issues
+- 💡 Feature Requests: Discuss in Issues section
+
 ### 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -440,6 +448,13 @@ python main_kivy.py
 python voice_control.py
 ```
 
+### 📞 サポート・お問い合わせ
+
+ご質問やご提案がございましたら、以下の方法でお連絡ください：
+- 📧 メール：[songyu00yo@gmail.com](mailto:songyu00yo@gmail.com)
+- 🐛 バグ報告：GitHub Issuesを提出
+- 💡 機能要求：Issuesセクションでディスカッション
+
 ### 📄 ライセンス
 
 このプロジェクトはMITライセンスの下でライセンスされています - 詳細は[LICENSE](LICENSE)ファイルを参照してください。
@@ -450,6 +465,6 @@ python voice_control.py
 
 **🎓 すべての学習者を応援します！努力が夢への階段となりますように！**
 
-*Made with ❤️ by [Your Name]*
+*Made with ❤️ by [songyu00yo@gmail.com](mailto:songyu00yo@gmail.com)*
 
 </div>
